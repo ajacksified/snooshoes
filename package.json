@@ -1,0 +1,40 @@
+{
+  "name": "snooshoes",
+  "version": "0.0.0",
+  "description": "snoode over http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajacksified/snooshoes.git"
+  },
+  "keywords": [
+    "reddit",
+    "api"
+  ],
+  "author": "Jack Lawson <ajacksified@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajacksified/snooshoes/issues"
+  },
+  "homepage": "https://github.com/ajacksified/snooshoes#readme",
+  "dependencies": {
+    "chariot": "^0.4.0",
+    "lodash": "^4.6.1",
+    "snoode": "git://github.com/ajacksified/snoode#9774e9f0c09af4dd7f522fc27565a2852342ba44"
+  },
+  "devDependencies": {
+    "babel-core": "6.5.1",
+    "babel-plugin-transform-async-to-generator": "^6.5.0",
+    "babel-plugin-transform-class-properties": "^6.5.2",
+    "babel-plugin-transform-object-rest-spread": "^6.5.0",
+    "babel-polyfill": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-register": "^6.5.2",
+    "babel-eslint": "4.1.7",
+    "eslint": "1.9.0",
+    "eslint-plugin-babel": "2.1.1"
+  }
+}
