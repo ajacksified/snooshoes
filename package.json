@@ -23,7 +23,7 @@
   "dependencies": {
     "chariot": "^0.4.0",
     "lodash": "^4.6.1",
-    "snoode": "git://github.com/ajacksified/snoode#9774e9f0c09af4dd7f522fc27565a2852342ba44"
+    "snoode": "git://github.com/ajacksified/snoode#e7f6c3f7cf28e9e549d09081e8717dbdf5a12249"
   },
   "devDependencies": {
     "babel-core": "6.5.1",
